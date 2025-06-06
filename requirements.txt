@@ -1,0 +1,28 @@
+# Smart Eye Robot - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Serial Communication
+pyserial>=3.5
+
+# HTTP Requests for LLM API
+requests>=2.28.0
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Audio Processing
+pyaudio>=0.2.11
+
+# Voice Activity Detection
+webrtcvad>=2.0.10
+
+# Optional: Alternative TTS engines
+# gTTS>=2.3.0  # Google Text-to-Speech (requires internet)
+# espeak>=1.48  # eSpeak TTS (offline, Linux/Mac)
+
+# Development/Testing Dependencies (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
