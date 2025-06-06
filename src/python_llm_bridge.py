@@ -25,7 +25,7 @@ from typing import Dict, List, Optional
 class SmartEyeRobot:
     def __init__(self):
         # Configuration
-        self.OPENROUTER_API_KEY = "sk-or-v1-0642-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #Example keys
+        self.OPENROUTER_API_KEY = "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #Example keys
         self.MODEL = "meta-llama/llama-4-maverick:free" #Example models
         self.SERIAL_PORT = "COM3"  # Adjust for your system (Linux: /dev/ttyUSB0)
         self.BAUD_RATE = 115200
