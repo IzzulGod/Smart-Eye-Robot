@@ -1,4 +1,3 @@
-//intellar.ca 
 //2025 - Enhanced Smart Eye Robot
 //ESP32 with OLED Display, Microphone, Speaker, and LLM Integration
 
