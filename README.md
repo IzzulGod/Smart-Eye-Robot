@@ -95,7 +95,7 @@ self.SERIAL_PORT = "/dev/ttyUSB0"  # For Linux/Mac systems
 2. Configure in the Python script:
 ```python
 self.OPENROUTER_API_KEY = "your-api-key-here"
-self.MODEL = "meta-llama/llama-4-maverick:free"  # or any available model
+self.MODEL = "your-model-here"  
 ```
 
 ### 5. Launch the Robot
@@ -165,7 +165,7 @@ self.BAUD_RATE = 115200
 
 ### LLM Configuration
 ```python
-self.MODEL = "meta-llama/llama-4-maverick:free"
+self.MODEL = "meta-llama/llama-4-maverick:free"  # or any available model
 self.TEMPERATURE = 0.7
 self.MAX_TOKENS = 150
 ```
