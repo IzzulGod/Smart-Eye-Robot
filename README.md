@@ -77,8 +77,8 @@ pip install -r requirements.txt
 
 ### 2. Software Installation
 ```bash
-git clone https://github.com/yourusername/smart-eye-robot.git
-cd smart-eye-robot
+git clone https://github.com/IzzulGod/Smart-Eye-Robot.git
+cd Smart-Eye-Robot
 pip install -r requirements.txt
 ```
 
@@ -248,11 +248,6 @@ We welcome contributions from the community! To contribute:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for complete details.
-
-### Community
-- Join our [Discord](https://discord.gg/your-server) for real-time support
-- Follow development updates on [Twitter](https://twitter.com/your-handle)
-- Subscribe to our [YouTube channel](https://youtube.com/your-channel) for tutorials
 
 ---
 
