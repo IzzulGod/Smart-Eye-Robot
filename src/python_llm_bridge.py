@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Smart Eye Robot - LLM Bridge (Complete Version)
-Connects ESP32 robot with Meta Llama-4 via OpenRouter
+Smart Eye Robot - LLM Bridge
+Connects ESP32 robot with Meta Llama-4 via OpenRouter 
 Handles voice recognition, LLM processing, and text-to-speech
 """
 
@@ -25,8 +25,8 @@ from typing import Dict, List, Optional
 class SmartEyeRobot:
     def __init__(self):
         # Configuration
-        self.OPENROUTER_API_KEY = "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #Example keys
-        self.MODEL = "meta-llama/llama-4-maverick:free" #Example models
+        self.OPENROUTER_API_KEY = "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
+        self.MODEL = "meta-llama/llama-4-maverick:free" 
         self.SERIAL_PORT = "COM3"  # Adjust for your system (Linux: /dev/ttyUSB0)
         self.BAUD_RATE = 115200
         
