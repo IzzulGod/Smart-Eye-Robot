@@ -249,22 +249,6 @@ We welcome contributions from the community! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for complete details.
 
-## 🙏 Credits & Acknowledgments
-
-- **OpenRouter** for providing unified access to open-source LLMs
-- **Open-source LLM Community**: Meta (LLaMA), Mistral AI, Google (Gemma), and other contributors
-- **Arduino & ESP32 Development Community** for extensive hardware support
-- **Python Voice/TTS Libraries** contributors for speech processing capabilities
-- **U8g2 Graphics Library** for OLED display functionality
-
-## 📞 Support & Help
-
-### Getting Help
-- Open an issue on [GitHub Issues](https://github.com/yourusername/smart-eye-robot/issues)
-- Refer to the `docs/` folder for detailed setup guides
-- Review troubleshooting section above for common problems
-- Check the [Wiki](https://github.com/yourusername/smart-eye-robot/wiki) for additional resources
-
 ### Community
 - Join our [Discord](https://discord.gg/your-server) for real-time support
 - Follow development updates on [Twitter](https://twitter.com/your-handle)
