@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "author": "IzzulGod",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp32", "top": 4.7, "left": -168.2, "attrs": {} },
+    {
+      "type": "wokwi-ssd1306",
+      "id": "oled1",
+      "top": -2.9,
+      "left": 30.7,
+      "attrs": { "width": "128", "height": "64" }
+    }
+  ],
+  "connections": [
+    [ "esp32:GND.1", "oled1:GND", "black", [] ],
+    [ "esp32:3V3", "oled1:VCC", "red", [] ],
+    [ "esp32:D21", "oled1:SDA", "green", [] ],
+    [ "esp32:D22", "oled1:SCL", "blue", [] ]
+  ],
+  "dependencies": {}
+}
