@@ -1,5 +1,8 @@
 # Eye Animation System for ESP32
 
+![Wokwi Simulation Screenshot](docs/wokwi-ss-1.png)
+*Figure 1: Eye animation system running in Wokwi simulator*
+
 An expressive eye animation system for robots that can be integrated with LLM (Large Language Model) to make robots appear more alive and responsive.
 
 ## ✨ Key Features
@@ -33,11 +36,6 @@ An expressive eye animation system for robots that can be integrated with LLM (L
 | **Display** | OLED SSD1306 128x64 (4-pin I2C) |
 | **Power** | 3.3V via ESP32 |
 | **Connections** | I2C (SDA: GPIO21, SCL: GPIO22) |
-
-## 📸 Documentation
-
-![Wokwi Simulation Screenshot](docs/wokwi-ss-1.png)
-*Figure 1: Eye animation system running in Wokwi simulator*
 
 ## 🔌 Wiring Diagram
 
